@@ -1,0 +1,356 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="1510" viewBox="0 0 1120 1510">
+<defs>
+  <style>
+    .phone{fill:#101310;stroke:#3b443b;stroke-width:2}
+    .card{fill:#1d241f;stroke:#343d35;stroke-width:1.5}
+    .field{fill:#151a16;stroke:#3a443b;stroke-width:1.3}
+    .white{fill:#f3f5ef;font-family:Arial,sans-serif}
+    .muted{fill:#a4aaa1;font-family:Arial,sans-serif}
+    .green{fill:#b7e36a;font-family:Arial,sans-serif}
+    .dark{fill:#101310;font-family:Arial,sans-serif}
+    .tiny{font-size:10px}
+    .small{font-size:12px}
+    .body{font-size:14px}
+    .heading{font-size:21px;font-weight:bold}
+    .bold{font-weight:bold}
+    .line{stroke:#343d35;stroke-width:1}
+    .accent{fill:#b7e36a}
+    .button{fill:#b7e36a}
+  </style>
+</defs>
+
+<!-- SCREEN 1: DASHBOARD -->
+<g transform="translate(20 20)">
+<rect class="phone" width="340" height="700" rx="27"/>
+<text class="white tiny bold" x="22" y="27">9:41</text>
+<text class="muted tiny" x="265" y="27">●  ▰  ▰</text>
+<text class="green tiny bold" x="22" y="62">STRIDE</text>
+<text class="muted tiny" x="250" y="62">01 / Activity</text>
+<text class="white heading" x="22" y="94">Good morning, Alex</text>
+<text class="muted small" x="22" y="116">Tuesday, October 13 · Let's keep moving.</text>
+
+<rect class="card" x="18" y="132" width="304" height="132" rx="13"/>
+<text class="white body bold" x="32" y="157">Last 7 days</text>
+<text class="muted tiny" x="32" y="176">Your weekly activity</text>
+<text class="green" font-size="24" font-weight="bold" x="34" y="213">2 / 3</text>
+<text class="white" font-size="24" font-weight="bold" x="125" y="213">86</text>
+<text class="white" font-size="24" font-weight="bold" x="237" y="213">4</text>
+<text class="muted tiny" x="34" y="232">workouts</text>
+<text class="muted tiny" x="125" y="232">minutes</text>
+<text class="muted tiny" x="237" y="232">day streak</text>
+<rect class="button" x="257" y="143" width="51" height="20" rx="6"/>
+<text class="dark tiny bold" x="263" y="157">On track</text>
+
+<rect class="card" x="18" y="278" width="304" height="122" rx="13"/>
+<text class="white body bold" x="32" y="303">Today's workout</text>
+<text class="muted small" x="32" y="325">Upper body · 3 exercises · 45 min</text>
+<rect class="button" x="32" y="343" width="276" height="38" rx="7"/>
+<text class="dark small bold" x="100" y="367">+  Start workout</text>
+
+<text class="white body bold" x="22" y="432">Monthly goal</text>
+<text class="muted tiny" x="22" y="450">6 of 12 workouts · 18 days remaining</text>
+<rect class="field" x="22" y="461" width="296" height="8" rx="4"/>
+<rect class="accent" x="22" y="461" width="148" height="8" rx="4"/>
+<text class="green tiny bold" x="286" y="450">50%</text>
+
+<text class="white body bold" x="22" y="506">Friends are moving</text>
+<rect class="card" x="18" y="519" width="304" height="78" rx="11"/>
+<circle cx="48" cy="558" r="17" fill="#354331"/>
+<text class="green small bold" x="39" y="562">NL</text>
+<text class="white small bold" x="76" y="550">Maya finished a 5 km run</text>
+<text class="muted tiny" x="76" y="570">2:14 · 20 minutes ago</text>
+<text class="green body" x="295" y="562">›</text>
+
+<line class="line" x1="0" y1="620" x2="340" y2="620"/>
+<g class="muted tiny" text-anchor="middle">
+<text x="38" y="647">⌂</text><text x="106" y="647">▣</text><text x="170" y="647">◎</text><text x="238" y="647">♧</text><text x="303" y="647">▤</text>
+</g>
+<g class="green tiny" text-anchor="middle">
+<text x="38" y="665">Home</text>
+</g>
+<g class="muted tiny" text-anchor="middle">
+<text x="106" y="665">Workout</text><text x="170" y="665">Goals</text><text x="238" y="665">Friends</text><text x="303" y="665">Feed</text>
+</g>
+<rect x="132" y="685" width="76" height="4" rx="2" fill="#a4aaa1"/>
+</g>
+
+<!-- SCREEN 2: CHOOSE EXERCISES -->
+<g transform="translate(390 20)">
+<rect class="phone" width="340" height="700" rx="27"/>
+<text class="white tiny bold" x="22" y="27">9:41</text>
+<text class="muted tiny" x="265" y="27">●  ▰  ▰</text>
+<text class="green tiny bold" x="22" y="62">‹ STRIDE</text>
+<text class="muted tiny" x="248" y="62">02 / Build workout</text>
+<text class="white heading" x="22" y="95">Choose exercises</text>
+<rect class="field" x="20" y="111" width="300" height="38" rx="8"/>
+<text class="muted small" x="34" y="135">⌕  Search exercise or muscle</text>
+
+<rect class="field" x="20" y="160" width="58" height="25" rx="12"/>
+<text class="muted tiny" x="37" y="177">All</text>
+<rect class="button" x="85" y="160" width="85" height="25" rx="12"/>
+<text class="dark tiny bold" x="101" y="177">Upper body</text>
+<rect class="field" x="177" y="160" width="85" height="25" rx="12"/>
+<text class="muted tiny" x="194" y="177">Lower body</text>
+
+<text class="white body bold" x="22" y="214">Upper body</text>
+<text class="muted tiny" x="270" y="214">3 selected</text>
+
+<g>
+<rect class="card" x="18" y="228" width="304" height="64" rx="9"/>
+<circle cx="48" cy="260" r="16" fill="#354331"/>
+<text class="green body bold" x="40" y="265">▤</text>
+<text class="white small bold" x="75" y="254">Barbell bench press</text>
+<text class="muted tiny" x="75" y="271">Chest · Barbell</text>
+<rect class="button" x="285" y="247" width="20" height="20" rx="4"/>
+<text class="dark small bold" x="290" y="262">✓</text>
+
+<rect class="card" x="18" y="300" width="304" height="64" rx="9"/>
+<circle cx="48" cy="332" r="16" fill="#354331"/>
+<text class="green body bold" x="40" y="337">▤</text>
+<text class="white small bold" x="75" y="326">Dumbbell row</text>
+<text class="muted tiny" x="75" y="343">Back · Dumbbell</text>
+<rect class="button" x="285" y="319" width="20" height="20" rx="4"/>
+<text class="dark small bold" x="290" y="334">✓</text>
+
+<rect class="card" x="18" y="372" width="304" height="64" rx="9"/>
+<circle cx="48" cy="404" r="16" fill="#354331"/>
+<text class="green body bold" x="40" y="409">▤</text>
+<text class="white small bold" x="75" y="398">Shoulder press</text>
+<text class="muted tiny" x="75" y="415">Shoulders · Dumbbell</text>
+<rect class="button" x="285" y="391" width="20" height="20" rx="4"/>
+<text class="dark small bold" x="290" y="406">✓</text>
+
+<rect class="card" x="18" y="444" width="304" height="64" rx="9"/>
+<circle cx="48" cy="476" r="16" fill="#354331"/>
+<text class="green body bold" x="40" y="481">▤</text>
+<text class="white small bold" x="75" y="470">Lat pulldown</text>
+<text class="muted tiny" x="75" y="487">Back · Cable machine</text>
+<rect class="field" x="285" y="463" width="20" height="20" rx="4"/>
+
+<rect class="card" x="18" y="516" width="304" height="64" rx="9"/>
+<circle cx="48" cy="548" r="16" fill="#354331"/>
+<text class="green body bold" x="40" y="553">▤</text>
+<text class="white small bold" x="75" y="542">Biceps curl</text>
+<text class="muted tiny" x="75" y="559">Arms · Dumbbell</text>
+<rect class="field" x="285" y="535" width="20" height="20" rx="4"/>
+</g>
+<text class="muted tiny" x="22" y="598">3 exercises selected for Upper body</text>
+<rect class="button" x="20" y="610" width="300" height="40" rx="7"/>
+<text class="dark small bold" x="91" y="635">Start workout · 3 exercises</text>
+<line class="line" x1="0" y1="662" x2="340" y2="662"/>
+<g class="muted tiny" text-anchor="middle">
+<text x="38" y="680">⌂</text><text x="106" y="680">▣</text><text x="170" y="680">◎</text><text x="238" y="680">♧</text><text x="303" y="680">▤</text>
+</g>
+<rect x="132" y="691" width="76" height="3" rx="2" fill="#a4aaa1"/>
+</g>
+
+<!-- SCREEN 3: ACTIVE WORKOUT -->
+<g transform="translate(760 20)">
+<rect class="phone" width="340" height="700" rx="27"/>
+<text class="white tiny bold" x="22" y="27">9:41</text>
+<text class="muted tiny" x="265" y="27">●  ▰  ▰</text>
+<text class="green tiny bold" x="22" y="62">‹ STRIDE</text>
+<text class="muted tiny" x="245" y="62">03 / Log workout</text>
+<text class="white heading" x="22" y="95">Upper body</text>
+<text class="green" font-size="29" font-weight="bold" x="22" y="134">24:18</text>
+<text class="muted tiny" x="22" y="153">Elapsed · 3 of 6 sets completed</text>
+<rect class="button" x="253" y="115" width="66" height="31" rx="7"/>
+<text class="dark tiny bold" x="269" y="135">Ⅱ Pause</text>
+
+<rect class="card" x="18" y="171" width="304" height="95" rx="11"/>
+<text class="white body bold" x="32" y="196">Barbell bench press</text>
+<text class="muted tiny" x="32" y="214">3 sets · 10 reps · 60 kg</text>
+<rect class="field" x="32" y="228" width="210" height="24" rx="5"/>
+<text class="green tiny" x="44" y="244">Set 1     60 kg     10 reps</text>
+<rect class="button" x="265" y="227" width="42" height="25" rx="5"/>
+<text class="dark tiny bold" x="273" y="244">Done</text>
+
+<text class="white body bold" x="22" y="296">Dumbbell row</text>
+<text class="muted tiny" x="22" y="315">Set   Weight   Reps   Status</text>
+<line class="line" x1="22" y1="325" x2="318" y2="325"/>
+<g class="white small">
+<text x="22" y="347">1</text><text x="75" y="347">12 × 30 kg</text><text x="194" y="347">30</text><text x="253" y="347">12</text>
+<text x="22" y="382">2</text><text x="75" y="382">12 × 30 kg</text><text x="194" y="382">30</text><text x="253" y="382">12</text>
+<text x="22" y="417">3</text><text x="75" y="417">12 × 30 kg</text><text x="194" y="417">30</text><text x="253" y="417">12</text>
+</g>
+<g>
+<rect class="field" x="184" y="332" width="48" height="23" rx="4"/>
+<rect class="field" x="244" y="332" width="45" height="23" rx="4"/>
+<rect class="button" x="293" y="332" width="17" height="23" rx="4"/>
+<rect class="field" x="184" y="367" width="48" height="23" rx="4"/>
+<rect class="field" x="244" y="367" width="45" height="23" rx="4"/>
+<rect class="field" x="293" y="367" width="17" height="23" rx="4"/>
+<rect class="field" x="184" y="402" width="48" height="23" rx="4"/>
+<rect class="field" x="244" y="402" width="45" height="23" rx="4"/>
+<rect class="field" x="293" y="402" width="17" height="23" rx="4"/>
+</g>
+<rect class="field" x="22" y="441" width="84" height="29" rx="6"/>
+<text class="green tiny bold" x="37" y="460">+ Add set</text>
+<text class="muted tiny" x="22" y="493">◷ Rest timer · 01:30 between sets</text>
+<text class="green tiny" x="278" y="493">Edit</text>
+<line class="line" x1="22" y1="505" x2="318" y2="505"/>
+<text class="white small bold" x="22" y="533">Up next: Shoulder press</text>
+<text class="muted tiny" x="22" y="551">3 sets × 10 reps × 12 kg</text>
+<rect class="button" x="20" y="581" width="300" height="42" rx="7"/>
+<text class="dark small bold" x="110" y="607">Finish workout</text>
+<line class="line" x1="0" y1="662" x2="340" y2="662"/>
+<g class="green tiny" text-anchor="middle"><text x="106" y="680">Workout</text></g>
+<g class="muted tiny" text-anchor="middle"><text x="38" y="680">⌂</text><text x="170" y="680">◎</text><text x="238" y="680">♧</text><text x="303" y="680">▤</text></g>
+<rect x="132" y="691" width="76" height="3" rx="2" fill="#a4aaa1"/>
+</g>
+
+<!-- SCREEN 4: WORKOUT COMPLETE -->
+<g transform="translate(20 760)">
+<rect class="phone" width="340" height="700" rx="27"/>
+<text class="white tiny bold" x="22" y="27">9:41</text>
+<text class="muted tiny" x="265" y="27">●  ▰  ▰</text>
+<text class="green tiny bold" x="22" y="62">‹ STRIDE</text>
+<text class="muted tiny" x="245" y="62">04 / Summary</text>
+<text class="white heading" x="22" y="97">Workout complete</text>
+<circle cx="43" cy="128" r="15" fill="#b7e36a"/>
+<text class="dark body bold" x="38" y="134">✓</text>
+<text class="white body bold" x="70" y="128">Nice work, Alex!</text>
+<text class="muted tiny" x="70" y="145">Upper body · October 13, 2026</text>
+
+<rect class="card" x="18" y="168" width="304" height="91" rx="12"/>
+<text class="green" font-size="23" font-weight="bold" x="32" y="204">42 min</text>
+<text class="white" font-size="23" font-weight="bold" x="126" y="204">9</text>
+<text class="white" font-size="23" font-weight="bold" x="218" y="204">3,240</text>
+<text class="muted tiny" x="32" y="225">duration</text>
+<text class="muted tiny" x="126" y="225">sets completed</text>
+<text class="muted tiny" x="218" y="225">volume (kg)</text>
+
+<text class="white body bold" x="22" y="291">3 exercises completed</text>
+<g>
+<rect class="card" x="18" y="305" width="304" height="61" rx="9"/>
+<text class="white small bold" x="32" y="329">Barbell bench press</text>
+<text class="muted tiny" x="32" y="348">3 × 10 × 60 kg</text>
+<text class="green body" x="295" y="340">✓</text>
+<rect class="card" x="18" y="375" width="304" height="61" rx="9"/>
+<text class="white small bold" x="32" y="399">Dumbbell row</text>
+<text class="muted tiny" x="32" y="418">3 × 12 × 30 kg</text>
+<text class="green body" x="295" y="410">✓</text>
+<rect class="card" x="18" y="445" width="304" height="61" rx="9"/>
+<text class="white small bold" x="32" y="469">Shoulder press</text>
+<text class="muted tiny" x="32" y="488">3 × 10 × 12 kg</text>
+<text class="green body" x="295" y="480">✓</text>
+</g>
+<rect class="card" x="18" y="519" width="304" height="67" rx="10"/>
+<text class="white small bold" x="32" y="542">One step closer to your goal</text>
+<text class="muted tiny" x="32" y="560">9 of 12 October workouts · +1 today</text>
+<rect class="field" x="32" y="570" width="276" height="5" rx="3"/>
+<rect class="accent" x="32" y="570" width="207" height="5" rx="3"/>
+<rect class="button" x="20" y="602" width="300" height="40" rx="7"/>
+<text class="dark small bold" x="115" y="627">Share progress</text>
+<rect class="field" x="20" y="651" width="300" height="30" rx="7"/>
+<text class="white small" x="130" y="671">Back to home</text>
+<line class="line" x1="0" y1="690" x2="340" y2="690"/>
+</g>
+
+<!-- SCREEN 5: GOALS -->
+<g transform="translate(390 760)">
+<rect class="phone" width="340" height="700" rx="27"/>
+<text class="white tiny bold" x="22" y="27">9:41</text>
+<text class="muted tiny" x="265" y="27">●  ▰  ▰</text>
+<text class="green tiny bold" x="22" y="62">STRIDE</text>
+<text class="muted tiny" x="245" y="62">05 / Track progress</text>
+<text class="white heading" x="22" y="97">Your goals</text>
+<rect class="button" x="20" y="113" width="145" height="29" rx="7"/>
+<text class="dark tiny bold" x="56" y="132">Active (2)</text>
+<rect class="field" x="173" y="113" width="147" height="29" rx="7"/>
+<text class="muted tiny" x="210" y="132">Completed (3)</text>
+
+<text class="green" font-size="25" font-weight="bold" x="22" y="180">2</text>
+<text class="white" font-size="25" font-weight="bold" x="150" y="180">3</text>
+<text class="muted tiny" x="22" y="198">active goals</text>
+<text class="muted tiny" x="150" y="198">goals achieved</text>
+
+<rect class="card" x="18" y="217" width="304" height="113" rx="11"/>
+<text class="white body bold" x="32" y="243">12 workouts</text>
+<text class="muted tiny" x="32" y="262">Monthly consistency · Dec–October 31</text>
+<text class="muted tiny" x="32" y="283">9 / 12 workouts · 75% complete</text>
+<rect class="field" x="32" y="296" width="276" height="8" rx="4"/>
+<rect class="accent" x="32" y="296" width="207" height="8" rx="4"/>
+<rect class="button" x="265" y="230" width="43" height="19" rx="5"/>
+<text class="dark tiny bold" x="273" y="244">On track</text>
+
+<rect class="card" x="18" y="343" width="304" height="113" rx="11"/>
+<text class="white body bold" x="32" y="369">Bench press 80 kg</text>
+<text class="muted tiny" x="32" y="388">Strength goal · Due December 31</text>
+<text class="muted tiny" x="32" y="409">60 / 80 kg · 30 kg to go</text>
+<rect class="field" x="32" y="422" width="276" height="8" rx="4"/>
+<rect class="accent" x="32" y="422" width="207" height="8" rx="4"/>
+<rect class="field" x="265" y="355" width="43" height="19" rx="5"/>
+<text class="green tiny bold" x="273" y="369">In progress</text>
+
+<rect class="card" x="18" y="471" width="304" height="78" rx="10"/>
+<circle cx="43" cy="497" r="12" fill="#354331"/>
+<text class="green small" x="39" y="501">✓</text>
+<text class="white tiny bold" x="65" y="494">Workout goals update automatically.</text>
+<text class="muted tiny" x="65" y="512">Strength goals are updated as you train.</text>
+<text class="muted tiny" x="32" y="536">◷  Last achieved: 10 workouts in September</text>
+
+<rect class="button" x="20" y="574" width="300" height="41" rx="7"/>
+<text class="dark small bold" x="119" y="600">+  Create goal</text>
+<line class="line" x1="0" y1="662" x2="340" y2="662"/>
+<g class="muted tiny" text-anchor="middle">
+<text x="38" y="680">⌂</text><text x="106" y="680">▣</text><text x="170" y="680">◎</text><text x="238" y="680">♧</text><text x="303" y="680">▤</text>
+</g>
+<text class="green tiny" x="155" y="697">Goals</text>
+</g>
+
+<!-- SCREEN 6: CREATE GOAL -->
+<g transform="translate(760 760)">
+<rect class="phone" width="340" height="700" rx="27"/>
+<text class="white tiny bold" x="22" y="27">9:41</text>
+<text class="muted tiny" x="265" y="27">●  ▰  ▰</text>
+<text class="green tiny bold" x="22" y="62">‹ STRIDE</text>
+<text class="muted tiny" x="245" y="62">06 / Set a target</text>
+<text class="white heading" x="22" y="97">Create a goal</text>
+<text class="muted small" x="22" y="122">What do you want to improve?</text>
+
+<rect class="button" x="20" y="140" width="95" height="29" rx="7"/>
+<text class="dark tiny bold" x="36" y="159">Consistency</text>
+<rect class="field" x="122" y="140" width="94" height="29" rx="7"/>
+<text class="muted tiny" x="145" y="159">Strength</text>
+<rect class="field" x="223" y="140" width="97" height="29" rx="7"/>
+<text class="muted tiny" x="247" y="159">Distance</text>
+
+<text class="white small bold" x="22" y="197">Exercise</text>
+<rect class="field" x="20" y="207" width="300" height="38" rx="7"/>
+<text class="white small" x="32" y="231">Barbell bench press</text>
+<text class="muted small" x="297" y="231">⌄</text>
+
+<text class="white small bold" x="22" y="275">Current best (kg)</text>
+<text class="white small bold" x="177" y="275">Target (kg)</text>
+<rect class="field" x="20" y="285" width="140" height="39" rx="7"/>
+<text class="white small" x="34" y="310">60</text>
+<rect class="field" x="177" y="285" width="143" height="39" rx="7"/>
+<text class="green small bold" x="191" y="310">80</text>
+
+<text class="white small bold" x="22" y="354">Target date</text>
+<rect class="field" x="20" y="364" width="300" height="39" rx="7"/>
+<text class="white small" x="32" y="389">December 31, 2026</text>
+<text class="muted small" x="294" y="389">▦</text>
+
+<text class="white small bold" x="22" y="432">Reminder</text>
+<rect class="field" x="20" y="442" width="300" height="39" rx="7"/>
+<text class="white small" x="32" y="467">Weekly · Monday at 8:00 AM</text>
+<text class="muted small" x="294" y="467">⌄</text>
+
+<rect class="card" x="18" y="500" width="304" height="78" rx="10"/>
+<text class="green small bold" x="32" y="525">◉  Private by default</text>
+<text class="muted tiny" x="32" y="545">Only you can see this goal. Share a milestone</text>
+<text class="muted tiny" x="32" y="561">with friends whenever you’re ready.</text>
+
+<rect class="button" x="20" y="597" width="300" height="41" rx="7"/>
+<text class="dark small bold" x="132" y="623">Save goal</text>
+<line class="line" x1="0" y1="662" x2="340" y2="662"/>
+<g class="muted tiny" text-anchor="middle">
+<text x="38" y="680">⌂</text><text x="106" y="680">▣</text><text x="170" y="680">◎</text><text x="238" y="680">♧</text><text x="303" y="680">▤</text>
+</g>
+<text class="green tiny" x="155" y="697">Goals</text>
+</g>
+</svg>
+

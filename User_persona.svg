@@ -1,0 +1,97 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#58CDB5"/>
+      <stop offset="100%" stop-color="#168F91"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="720" fill="url(#bg)"/>
+  <rect x="35" y="35" width="1130" height="650" rx="18" fill="#FFFFFF" opacity="0.16"/>
+  <rect x="55" y="55" width="1090" height="610" rx="14" fill="#FFFFFF"/>
+
+  <!-- Left profile panel -->
+  <rect x="55" y="55" width="430" height="610" rx="14" fill="#D9F3EA"/>
+  <text x="85" y="100" font-family="Arial" font-size="15" font-weight="bold" fill="#176C65" letter-spacing="2">USER PERSONA</text>
+
+  <!-- Image placeholder -->
+  <rect x="105" y="135" width="330" height="330" rx="12" fill="#EDF7F3" stroke="#66BDAA" stroke-width="2" stroke-dasharray="9 7"/>
+  <text x="270" y="290" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold" fill="#398F80">INSERT IMAGE HERE</text>
+  <text x="270" y="320" text-anchor="middle" font-family="Arial" font-size="13" fill="#6B9188">Profile photograph</text>
+
+  <text x="270" y="505" text-anchor="middle" font-family="Arial" font-size="27" font-weight="bold" fill="#174D4B">David Miller</text>
+  <text x="270" y="535" text-anchor="middle" font-family="Arial" font-size="15" fill="#527B73">28 years • Product Designer</text>
+
+  <rect x="75" y="565" width="390" height="75" rx="10" fill="#174D4B"/>
+  <text x="95" y="594" font-family="Arial" font-size="15" fill="#FFFFFF" font-style="italic">"I want to create a lovely home</text>
+  <text x="95" y="617" font-family="Arial" font-size="15" fill="#FFFFFF" font-style="italic">using my existing furniture."</text>
+
+  <!-- Personal details -->
+  <text x="525" y="105" font-family="Arial" font-size="30" font-weight="bold" fill="#263D45">David Miller</text>
+  <text x="525" y="132" font-family="Arial" font-size="15" fill="#71828A">Interior Design Platform User</text>
+
+  <g font-family="Arial" font-size="14" fill="#586B70">
+    <circle cx="535" cy="170" r="5" fill="#25AFA6"/><text x="552" y="175">28 years old</text>
+    <circle cx="535" cy="198" r="5" fill="#25AFA6"/><text x="552" y="203">New York, USA</text>
+    <circle cx="535" cy="226" r="5" fill="#25AFA6"/><text x="552" y="231">Product Designer</text>
+    <circle cx="535" cy="254" r="5" fill="#25AFA6"/><text x="552" y="259">Lives with his girlfriend</text>
+  </g>
+
+  <!-- Technology -->
+  <rect x="830" y="80" width="280" height="210" rx="12" fill="#F3F8F7"/>
+  <text x="855" y="118" font-family="Arial" font-size="21" font-weight="bold" fill="#259D99">Technology</text>
+  <g font-family="Arial" font-size="14" fill="#475C61">
+    <text x="855" y="154">Internet</text><text x="855" y="187">Social Media</text>
+    <text x="855" y="220">Online Shopping</text><text x="855" y="253">Gadgets</text>
+  </g>
+  <g fill="#26AAA5">
+    <circle cx="1035" cy="149" r="6"/><circle cx="1055" cy="149" r="6"/><circle cx="1075" cy="149" r="6"/><circle cx="1095" cy="149" r="6"/>
+    <circle cx="1035" cy="182" r="6"/><circle cx="1055" cy="182" r="6"/><circle cx="1075" cy="182" r="6"/>
+    <circle cx="1035" cy="215" r="6"/><circle cx="1055" cy="215" r="6"/><circle cx="1075" cy="215" r="6"/><circle cx="1095" cy="215" r="6"/>
+    <circle cx="1035" cy="248" r="6"/><circle cx="1055" cy="248" r="6"/><circle cx="1075" cy="248" r="6"/>
+  </g>
+
+  <!-- Favorite brands -->
+  <rect x="830" y="310" width="280" height="115" rx="12" fill="#F3F8F7"/>
+  <text x="855" y="346" font-family="Arial" font-size="20" font-weight="bold" fill="#259D99">Favorite Brands</text>
+  <text x="855" y="390" font-family="Arial" font-size="23" font-weight="bold" fill="#475C61">IKEA</text>
+  <text x="935" y="390" font-family="Arial" font-size="22" font-weight="bold" fill="#475C61">G</text>
+  <text x="980" y="390" font-family="Arial" font-size="20" font-weight="bold" fill="#475C61">mi</text>
+  <text x="1030" y="390" font-family="Arial" font-size="19" font-weight="bold" fill="#475C61">VANS</text>
+
+  <!-- Bio -->
+  <text x="525" y="315" font-family="Arial" font-size="22" font-weight="bold" fill="#259D99">Bio</text>
+  <rect x="525" y="326" width="48" height="4" rx="2" fill="#259D99"/>
+  <g font-family="Arial" font-size="14" fill="#52666B">
+    <text x="525" y="360">Lives in a rented apartment and enjoys spending</text>
+    <text x="525" y="382">time with his girlfriend. He likes hosting friends</text>
+    <text x="525" y="404">and wants a stylish, comfortable home without</text>
+    <text x="525" y="426">spending too much money.</text>
+  </g>
+
+  <!-- Wants and needs -->
+  <text x="525" y="475" font-family="Arial" font-size="22" font-weight="bold" fill="#259D99">Wants &amp; Needs</text>
+  <rect x="525" y="486" width="48" height="4" rx="2" fill="#259D99"/>
+  <g font-family="Arial" font-size="14" fill="#52666B">
+    <circle cx="533" cy="519" r="4" fill="#26AAA5"/><text x="547" y="524">Create a cozy atmosphere at home</text>
+    <circle cx="533" cy="555" r="4" fill="#26AAA5"/><text x="547" y="560">Use existing furniture creatively</text>
+    <circle cx="533" cy="591" r="4" fill="#26AAA5"/><text x="547" y="596">Find affordable design ideas</text>
+    <circle cx="533" cy="627" r="4" fill="#26AAA5"/><text x="547" y="632">Plan rooms with minimal effort</text>
+  </g>
+
+  <!-- Frustrations -->
+  <text x="830" y="475" font-family="Arial" font-size="22" font-weight="bold" fill="#259D99">Frustrations</text>
+  <rect x="830" y="486" width="48" height="4" rx="2" fill="#259D99"/>
+  <g font-family="Arial" font-size="14" fill="#52666B">
+    <circle cx="838" cy="519" r="4" fill="#E58A75"/>
+    <text x="852" y="524">Doesn't want to spend too much</text>
+    <text x="852" y="544">money on interior design.</text>
+    <circle cx="838" cy="574" r="4" fill="#E58A75"/>
+    <text x="852" y="579">Has limited time for planning</text>
+    <text x="852" y="599">and decorating his home.</text>
+    <circle cx="838" cy="629" r="4" fill="#E58A75"/>
+    <text x="852" y="634">Finds it difficult to visualize</text>
+    <text x="852" y="654">the final room design.</text>
+  </g>
+</svg>
